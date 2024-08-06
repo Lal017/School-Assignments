@@ -1,0 +1,101 @@
+Common Fish Name,Taxonomy,Size (cm),Minimum Salinity (PPT),Maximum Salinity (PPT),Minimum Temperature (C),Maximum Temperature (C),Minimum Volume (Gallons),Minimum Depth
+Blue ring angelfish,Pomacanthus annularis,30.0,32.6,38.7,25.4,29.5,260.0,14.0
+Arabian angelfish,Pomacanthus asfur,40.0,33.9,35.7,25.8,29.9,140.0,6.0
+Bellus angelfish,Genicanthus bellus,18.0,30.7,36.2,25.6,28.9,40.0,1.0
+Blue angelfish,Holacanthus bermudensis,45.0,Unknown,36.9,24.1,28.2,200.0,11.0
+Keyhole angelfish,Centropyge tibicen,19.0,31.7,35.2,24.3,29.2,60.0,2.0
+Flame angelfish,Centropyge loricula,15.0,33.3,36.2,25.4,29.3,80.0,3.0
+Bartlett's anthias,Pseudanthias bartlettorum,9.0,33.1,38.6,25.1,30.4,30.0,1.0
+Bicolor anthias,Pseudanthias bicolor,13.0,32.8,37.9,24.5,29.7,110.0,6.0
+Diadem anthias,Pseudanthias parvirostris,7.0,32.3,35.5,26.3,28.1,60.0,3.0
+Vermillion seabass,Cephalopholis miniata,50.0,32.7,37.2,25.4,28.3,340.0,13.0
+Chalk bass,Serranus tortugarum,8.0,31.6,37.5,23.6,28.6,70.0,2.0
+Saddle grouper,Plectropomus laevis,125.0,32.3,37.2,25.5,27.8,820.0,20.0
+Royal gramma,Gramma loreto,5.0,32.1,36.6,25.0,28.7,40.0,2.0
+Black cap gramma,Gramma melacara,6.0,31.7,37.3,24.9,29.3,20.0,1.0
+Orbiculate batfish,Platax orbicularis,50.0,33.8,36.7,23.8,28.3,180.0,10.0
+Teira batfish,Platax teira,70.0,30.2,39.0,25.8,28.1,420.0,15.0
+Bicolor blenny,Ecsenius bicolor,11.0,33.3,38.2,25.2,28.6,100.0,3.0
+Ember blenny,Cirripectes stigmaticus,12.0,34.5,36.7,24.7,29.9,50.0,2.0
+Lawnmower blenny,Salarias fasciatus,14.0,34.2,35.9,25.0,29.1,110.0,5.0
+Immaculate puffer,Arothron immaculatus,28.0,32.5,38.8,25.6,28.7,260.0,9.0
+Yellow boxfish,Ostracion cubicus,45.0,31.0,37.9,25.2,30.6,360.0,18.0
+Copperband butterflyfish,Chelmon rostratus,20.0,33.5,35.9,24.7,28.2,130.0,7.0
+Raccoon butterflyfish,Chaetodon lunula,20.0,33.2,38.3,26.0,29.3,60.0,2.0
+Four-eyed butterflyfish,Chaetodon capistratus,15.0,32.7,36.1,26.0,29.7,100.0,4.0
+Flamefish,Apogon maculatus,11.0,32.8,37.2,24.6,29.4,80.0,4.0
+Orbic cardinalfish,Sphaeramia orbicularis,10.0,32.2,37.9,24.7,29.9,80.0,3.0
+Ringtailed cardinalfish,Apogon aureus,14.5,33.5,38.2,24.8,27.2,60.0,2.0
+Half and half chromis,Chromis iomelas,9.0,32.3,37.0,26.4,27.7,30.0,1.0
+Black-axil chromis,Chromis atripectoralis,12.0,32.6,37.9,23.4,29.8,30.0,1.0
+Black and white chromis,Chromis margaritifer,7.6,32.1,37.4,25.9,27.8,50.0,2.0
+Clarkii anemonefish,Amphiprion clarkii,15.0,32.1,36.8,25.8,28.4,130.0,7.0
+Ocellaris,Amphiprion ocellaris,11.0,32.9,39.6,26.0,28.9,50.0,3.0
+Saddleback anemonefish,Amphiprion polymnus,5.1,32.4,38.9,26.8,30.3,50.0,2.0
+Azure damsel,Chrysiptera hemicyanea,10.0,33.4,38.1,24.3,29.1,20.0,1.0
+Fiji blue devil damsel,Chrysiptera taupou,8.0,31.6,37.6,26.7,29.4,70.0,3.0
+Four stripe damsel,Dascyllus melanurus,10.0,34.7,35.4,24.9,29.6,70.0,3.0
+Longfin gregory,Stegastes diencaeus,12.5,33.2,36.7,23.5,29.2,100.0,6.0
+Purple fire fish,Nemateleotris decora,9.0,33.3,38.5,24.4,28.2,80.0,5.0
+Scissortail dartfish,Ptereleotris evides,14.0,31.2,37.2,25.0,29.6,90.0,5.0
+Mandarinfish,Synchiropus splendidus,6.0,31.9,35.9,23.3,28.6,30.0,1.0
+Ocellated dragonet,Synchiropus ocellatus,8.0,32.7,35.6,26.3,28.2,70.0,2.0
+Banded snake eel,Myrichthys colubrinus,97.0,32.0,39.2,26.3,30.0,530.0,19.0
+Yellowhead moray eel,Gymnothorax fimbriatus,80.0,32.9,36.6,24.1,29.6,660.0,18.0
+Tassle filefish,Chaetodermis penicilligerus,30.0,32.7,37.3,23.3,28.7,80.0,4.0
+Peacock flounder,Bothus lunatus,46.0,32.4,39.1,24.5,27.9,410.0,19.0
+Giant anglerfish,Antennarius commerson,38.0,32.8,38.0,26.6,27.7,130.0,4.0
+Striated frogfish,Antennarius striatus,15.0,34.1,36.7,23.9,30.0,50.0,3.0
+Neon goby,Elacatinus oceanops,5.0,30.7,36.8,25.0,28.9,30.0,1.0
+Pinkspotted shrimp goby,Gobius melanopus,15.0,31.4,36.1,23.7,28.7,100.0,4.0
+Porkfish,Anisotremus virginicus,41.0,33.0,37.9,23.7,28.5,290.0,14.0
+Barred hamlet,Hypoplectrus puella,15.0,32.0,36.6,24.1,28.7,70.0,3.0
+Indigo hamlet,Hypoplectrus indigo,14.0,32.1,37.4,23.7,28.9,110.0,7.0
+Flame hawkfish,Neocirrhitus armatus,9.0,33.1,35.7,23.7,28.5,60.0,2.0
+Spotted hawkfish,Cirrhitichthys aprinus,12.5,32.8,37.1,26.0,29.2,80.0,3.0
+Cuban hogfish,Bodianus pulchellus,28.5,33.6,39.1,23.8,28.1,170.0,6.0
+Moorish idol,Zanclus cornutus,23.0,32.4,37.7,24.2,29.1,50.0,2.0
+Threadfin lookdown,Selene vomer,48.0,33.0,36.3,24.3,28.5,110.0,6.0
+Yellowhead jawfish,Opistognathus aurifrons,10.0,32.6,38.0,25.9,30.5,80.0,3.0
+Fuzzy dwarf lionfish,Dendrochirus brachypterus,18.0,31.7,37.7,26.8,30.6,60.0,3.0
+Volitan lionfish,Pterois volitans,43.0,31.8,37.9,24.2,28.8,120.0,5.0
+Princess parrotfish,Scarus taeniopterus,25.0,34.0,36.2,26.2,29.0,140.0,6.0
+Dragonface pipefish,Corythoichthys haematopterus,18.0,32.4,38.2,26.0,28.4,140.0,5.0
+Yellow multibanded pipefish,Doryrhamphus pessuliferus,18.0,32.0,37.9,25.2,28.9,60.0,3.0
+Bicolor pseudochromis,Pseudochromis paccagnellae,6.0,32.0,36.3,24.8,30.3,40.0,2.0
+Dusky dottyback,Pseudochromis fuscus,10.0,31.7,37.0,23.8,29.8,90.0,4.0
+Orchid dottyback,Pseudochromis fridmani,8.0,31.6,38.1,24.4,28.8,30.0,1.0
+Neon dottyback,Pseudochromis aldabraensis,10.0,31.9,37.4,24.4,30.1,90.0,4.0
+Foxface,Siganus vulpinus,23.0,33.7,38.7,23.7,29.8,60.0,2.0
+Leopard round stingray,Urobatis pardalis,46.2,30.8,37.5,25.2,29.1,110.0,5.0
+Shovelnose guitarfish,Pseudobatos productus,119.0,32.8,36.5,24.1,29.1,350.0,3.0
+Eastern fiddler ray,Trygonorrhina fasciata,126.0,34.5,37.8,25.0,29.1,790.0,4.0
+Ambon scorpionfish,Pteroidichthys amboinensis,12.0,32.5,36.1,25.5,27.4,80.0,4.0
+Lacey scorpionfish,Rhinopias aphanes,24.0,30.7,37.8,25.2,28.6,70.0,2.0
+Sea goblin,Inimicus didactylus,18.0,32.6,36.5,26.6,29.0,90.0,4.0
+Pot-bellied seahorse,Hippocampus abdominalis,25.0,33.6,37.0,25.6,28.7,110.0,5.0
+Pygmy seahorse,Hippocampus bargibanti,2.4,30.7,38.6,25.2,29.0,10.0,1.0
+Thorny Seahorse,Hippocampus histrix,17.0,30.8,37.6,25.2,28.5,40.0,2.0
+Popeye catalufa soldierfish,Pristigenys serrula,34.0,33.3,38.4,25.0,28.8,240.0,15.0
+Striped squirrelfish,Sargocentron xantherythrum,18.0,31.2,37.1,24.8,30.5,30.0,2.0
+Emperor snapper,Lutjanus sebae,114.0,32.3,38.4,25.7,28.7,520.0,19.0
+Yellowback fusilier,Caesio xanthonota,38.0,32.3,36.8,24.1,28.7,240.0,15.0
+Dussumieri tang,Acanthurus dussumieri,53.0,33.7,36.5,25.7,30.3,410.0,19.0
+Sohal tang,Acanthurus sohal,40.0,32.0,38.9,23.9,28.7,90.0,6.0
+Blue-headed tilefish,Hoplolatilus starcki,10.0,34.1,37.6,25.0,29.3,40.0,2.0
+Blue line trigger,Pseudobalistes fuscus,55.0,32.9,38.7,25.3,28.8,160.0,8.0
+Picasso trigger,Rhinecanthus aculeatus,30.0,32.3,37.7,25.2,29.1,280.0,15.0
+Titan trigger,Balistoides viridescens,75.0,32.1,38.3,25.3,28.4,1000.0,15.0
+Banana wrasse,Thalassoma lutescens,30.0,34.7,37.8,25.5,27.6,280.0,12.0
+Bird wrasse,Gomphosus varius,28.0,31.9,36.5,25.8,29.5,100.0,4.0
+Cortez rainbow wrasse,Thalassoma lucasanum,15.0,32.8,36.8,25.8,29.3,60.0,3.0
+Flame wrasse,Cirrhilabrus jordani,10.0,32.2,37.0,23.9,28.2,30.0,1.0
+Harlequin tusk,Choerodon fasciatus,30.0,31.5,36.5,23.5,28.6,70.0,4.0
+Leopard wrasse,Macropharyngodon meleagris,15.0,32.5,38.4,25.1,28.5,120.0,7.0
+Yellow fin fairy wrasse,Cirrhilabrus flavidorsalis,8.0,33.1,38.3,25.0,27.5,20.0,1.0
+Goldbar wrasse,Thalassoma hebraicum,23.0,32.8,36.2,25.8,28.3,80.0,3.0
+Diagonal bar prawn goby,Amblyeleotris diagonalis,8.0,32.1,37.9,25.6,27.6,50.0,2.0
+Goldsaddle goatfish,Parupeneus cyclostomus,51.0,31.8,36.5,25.6,29.2,440.0,16.0
+Horseshoe filefish,Meuschenia hippocrepis,51.0,33.8,39.3,26.3,30.2,380.0,17.0
+Snowflake eel,Echidna nebulosa,100.0,32.6,38.3,23.5,28.4,490.0,18.0
+Sailfin blenny,Emblemaria pandionis,5.0,32.6,35.8,25.4,28.5,20.0,1.0
