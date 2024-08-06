@@ -1,0 +1,6 @@
+professor,topic,room
+andro-vasko,compilers,CS172
+fonseca,object oriented programming,CS361
+jorgensen,assembly,CS176
+martin,algorithms,CS301
+rafalski,intro to programming,CS175
