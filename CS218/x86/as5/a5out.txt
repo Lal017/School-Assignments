@@ -1,0 +1,27 @@
+------------------------------------ 
+display variables 
+
+vSum:	0x402167:	79770158
+
+vAve:	0x40216b:	1627962
+
+vMax:	0x402163:	88284672
+
+vMin:	0x40215b:	-67097100
+
+vEstMed:	0x40215f:	7831813
+
+saSum:	0x40217b:	16294046
+
+saMax:	0x402177:	2383594
+
+saMin:	0x40216f:	-2371386
+
+saAve:	0x40217f:	332531
+
+saEstMed:	0x402173:	1111381
+
+ 
+Warning: 'set logging off', an alias for the command 'set logging enabled', is deprecated.
+Use 'set logging enabled off'.
+
