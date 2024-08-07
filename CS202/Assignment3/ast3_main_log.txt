@@ -1,0 +1,271 @@
+kishore-vm:kishore$ make emain
+g++    -c -o employeeImp.o employeeImp.cpp
+g++  -Wall -Wextra -pedantic -std=c++11 -g  -c wagesImp.cpp
+g++  -Wall -Wextra -pedantic -std=c++11 -g -o emain emain.o employeeImp.o wagesImp.o
+kishore-vm:kishore$ make main
+g++  -Wall -Wextra -pedantic -std=c++11 -g -c main.cpp
+g++    -c -o managerImp.o managerImp.cpp
+g++  -Wall -Wextra -pedantic -std=c++11 -g -o main main.o managerImp.o employeeImp.o wagesImp.o
+kishore-vm:kishore$ ./main
+
+
+----------------------------------------------------------------------
+CS 202 - Assignment #3
+Manager Class Test Program.
+
+Error :- invalid employeeID 
+Error :- invalid employeeID 
+Error :- invalid employeeID 
+Error :- invalid employeeID 
+Error Testing: 
+Error :- invalid employeeID 
+Error :- invalid employeeID 
+Error :- invalid employeeID 
+Error :- invalid employeeID 
+Error :- invalid employeeID 
+Error:- invalid tax rate.
+Error:- invalid tax rate.
+Error:- invalid pay rate.
+Error:- invalid pay rate.
+Error:- invalid pay rate.
+Hours worked error.
+Error:- invalid Hours worked.
+Error:- invalid Hours worked.
+bonus error.
+Error:- invalid bonus percentage.
+Error:- invalid bonus percentage.
+
+----------------------------------------------------------------------
+ Name: Hutz, Lionel                Status: PARTTIME
+ Employee Gross Pay:        500
+ GetHoursWorked:             40
+     Withholding
+          Medicare:            7.25
+          Social Security:    31.00
+          Federal Tax:        61.25
+     Take Home Pay:          400.50
+
+----------------------------------------------------------------------
+ Name: Gumble, Barney                Status: PARTTIME
+ Employee Gross Pay:     480.00
+ GetHoursWorked:          40.00
+     Withholding
+          Medicare:            6.96
+          Social Security:    29.76
+          Federal Tax:        93.60
+     Take Home Pay:          349.68
+
+----------------------------------------------------------------------
+ Name: Spuckler, Cletus                Status: CASUAL
+ Employee Gross Pay:       5.00
+ GetHoursWorked:           5.00
+     Withholding
+          Medicare:            0.07
+          Social Security:     0.31
+          Federal Tax:         1.39
+     Take Home Pay:            3.23
+
+----------------------------------------------------------------------
+ Name: Terwilliger, Cecil                Status: NONE
+ Employee Gross Pay:       0.00
+ GetHoursWorked:           0.00
+     Withholding
+          Medicare:            0.00
+          Social Security:     0.00
+          Federal Tax:         0.00
+     Take Home Pay:            0.00
+
+----------------------------------------------------------------------
+ Name: Simpson, Homer                Status: FULLTIME
+ Employee Gross Pay:    1024.00
+ GetHoursWorked:          32.00
+     Withholding
+          Medicare:           14.85
+          Social Security:    63.49
+          Federal Tax:       240.64
+     Take Home Pay:          705.02
+
+----------------------------------------------------------------------
+ Name: Leonard, Lenny                Status: FULLTIME
+ Employee Gross Pay:    1320.00
+ GetHoursWorked:          40.00
+     Withholding
+          Medicare:           19.14
+          Social Security:    81.84
+          Federal Tax:       227.70
+     Take Home Pay:          991.32
+
+----------------------------------------------------------------------
+ Name: Carlson, Carl                Status: FULLTIME
+ Employee Gross Pay:    1680.00
+ GetHoursWorked:          40.00
+     Withholding
+          Medicare:           24.36
+          Social Security:   104.16
+          Federal Tax:       361.20
+     Take Home Pay:         1190.28
+
+----------------------------------------------------------------------
+ Name: McClure, Selma                Status: PARTTIME
+ Employee Gross Pay:    1375.00
+ GetHoursWorked:          50.00
+     Withholding
+          Medicare:           19.94
+          Social Security:    85.25
+          Federal Tax:       230.31
+     Take Home Pay:         1039.50
+
+----------------------------------------------------------------------
+ Name: Krabappel, Edna                Status: FULLTIME
+ Employee Gross Pay:    1600.00
+ GetHoursWorked:          40.00
+     Withholding
+          Medicare:           23.20
+          Social Security:    99.20
+          Federal Tax:       240.00
+     Take Home Pay:         1237.60
+
+----------------------------------------------------------------------
+ Name: Nahasapeemapetilon, Apu                Status: PARTTIME
+ Employee Gross Pay:    1056.00
+ GetHoursWorked:          50.00
+     Withholding
+          Medicare:           15.31
+          Social Security:    65.47
+          Federal Tax:       205.92
+     Take Home Pay:          769.30
+
+----------------------------------------------------------------------
+ Name: Groundskeeper, Willie                Status: FULLTIME
+ Employee Gross Pay:       0.00
+ GetHoursWorked:           0.00
+     Withholding
+          Medicare:            0.00
+          Social Security:     0.00
+          Federal Tax:         0.00
+     Take Home Pay:            0.00
+
+----------------------------------------------------------------------
+ Name: Riviera, Nick                Status: FULLTIME
+ Employee Gross Pay:   28000.00
+ GetHoursWorked:          60.00
+     Withholding
+          Medicare:          406.00
+          Social Security:  1736.00
+          Federal Tax:      5950.00
+     Take Home Pay:        19908.00
+
+----------------------------------------------------------------------
+ Name: Burns, Charles                Status: FULLTIME
+ Mangaer Gross Pay:   100000.00
+ GetHoursWorked:          45.00
+     Withholding
+          Medicare:         1450.00
+          Social Security:  6200.00
+          Federal Tax:      1000.00
+     Take Home Pay:        91350.00
+ Bonus Amount:     100000.00
+     Withholding
+          Federal Tax:          25000.00
+          Bonus Check Amount:   75000.00
+
+----------------------------------------------------------------------
+ Name: Chalmers, Gary                Status: FULLTIME
+ Mangaer Gross Pay:      800.00
+ GetHoursWorked:          38.00
+     Withholding
+          Medicare:           11.60
+          Social Security:    49.60
+          Federal Tax:       160.00
+     Take Home Pay:          578.80
+ Bonus Amount:     40.00
+     Withholding
+          Federal Tax:             10.00
+          Bonus Check Amount:      30.00
+
+----------------------------------------------------------------------
+ Name: Quimby, Joe                Status: PARTTIME
+ Mangaer Gross Pay:     3200.00
+ GetHoursWorked:           3.00
+     Withholding
+          Medicare:           46.40
+          Social Security:   198.40
+          Federal Tax:       240.00
+     Take Home Pay:         2715.20
+ Bonus Amount:     2560.00
+     Withholding
+          Federal Tax:            640.00
+          Bonus Check Amount:    1920.00
+
+----------------------------------------------------------------------
+ Name: Hibbert, Julius                Status: CASUAL
+ Mangaer Gross Pay:        0.00
+ GetHoursWorked:           0.00
+     Withholding
+          Medicare:            0.00
+          Social Security:     0.00
+          Federal Tax:         0.00
+     Take Home Pay:            0.00
+ Bonus Amount:     0.00
+     Withholding
+          Federal Tax:              0.00
+          Bonus Check Amount:       0.00
+
+----------------------------------------------------------------------
+ Name: Meyers, Roger                Status: CASUAL
+ Mangaer Gross Pay:     2100.00
+ GetHoursWorked:          30.00
+     Withholding
+          Medicare:           30.45
+          Social Security:   130.20
+          Federal Tax:       288.75
+     Take Home Pay:         1650.60
+ Bonus Amount:     735.00
+     Withholding
+          Federal Tax:            183.75
+          Bonus Check Amount:     551.25
+
+----------------------------------------------------------------------
+ Name: Monroe, Marvin                Status: NONE
+ Mangaer Gross Pay:     1510.00
+ GetHoursWorked:          50.00
+     Withholding
+          Medicare:           21.89
+          Social Security:    93.62
+          Federal Tax:         0.00
+     Take Home Pay:         1394.49
+ Bonus Amount:     309.55
+     Withholding
+          Federal Tax:             77.39
+          Bonus Check Amount:     232.16
+
+----------------------------------------------------------------------
+ Name: Wiggum, Clancy                Status: PARTTIME
+ Mangaer Gross Pay:      860.00
+ GetHoursWorked:          37.00
+     Withholding
+          Medicare:           12.47
+          Social Security:    53.32
+          Federal Tax:       202.10
+     Take Home Pay:          592.11
+ Bonus Amount:     43.00
+     Withholding
+          Federal Tax:             10.75
+          Bonus Check Amount:      32.25
+
+----------------------------------------------------------------------
+ Name: Ziff, Artie                Status: NONE
+ Mangaer Gross Pay:     5000.00
+ GetHoursWorked:          25.00
+     Withholding
+          Medicare:           72.50
+          Social Security:   310.00
+          Federal Tax:       775.00
+     Take Home Pay:         3842.50
+ Bonus Amount:     2812.50
+     Withholding
+          Federal Tax:            703.12
+          Bonus Check Amount:    2109.38
+
+
+
