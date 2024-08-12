@@ -1,0 +1,4 @@
+text _student_name = "Eduardo Salazar"
+text student_name_ = "Eduardo Salazar" //This is an invalid identifier
+text _ = "Eduardo Salazar" //Also an invalid identifier
+text student_name = "Eduardo Salazar"

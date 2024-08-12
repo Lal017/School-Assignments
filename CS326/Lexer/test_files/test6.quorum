@@ -1,0 +1,9 @@
+integer num = 5
+if num not= 5
+    output "Hello world!"
+elseif num >= 7
+    output "Goodbye world!"
+else
+    output "Hello planet!"
+end
+// if statement to compare values

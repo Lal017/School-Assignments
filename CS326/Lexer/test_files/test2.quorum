@@ -1,0 +1,5 @@
+class circumference
+    integer two = 2
+    number pi = 3.14159 //float test
+    number radius
+end

@@ -1,0 +1,4 @@
+repeat 5 times
+    output "Hello World!"
+end
+// loop that prints out hello world 5 times

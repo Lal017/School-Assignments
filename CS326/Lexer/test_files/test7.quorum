@@ -1,0 +1,7 @@
+boolean looped = false
+repeat while not looped
+    output "Hello"
+    looped = true
+end
+output " World!"
+//while loop and boolean test

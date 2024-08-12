@@ -1,0 +1,10 @@
+use Libraries.Containers.Array
+
+class Main
+    action Main
+        Array<integer> arr
+        arr:Add(17)
+        integer value = arr:Get(0)
+    end
+end
+//Array implementation

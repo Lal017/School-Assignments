@@ -1,0 +1,6 @@
+class Student
+    text name = "Eduardo";
+    integer age = 22
+    // incomplete string test
+    text dob = "09/02/2001
+end
